@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1660800167 source:c:\users\gonzaa\desktop\utn prog-lab\2022-08-16\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+
+1660799400 c:\users\gonzaa\desktop\utn prog-lab\2022-08-16\domicilio.h
+
+1660800125 source:c:\users\gonzaa\desktop\utn prog-lab\2022-08-16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"domicilio.h"
+
