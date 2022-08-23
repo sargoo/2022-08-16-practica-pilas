@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1661041494 source:c:\users\gonzaa\desktop\utn prog-lab\2022-08-16 clase 02 practica pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEmpleado.h"
+
+1661041494 source:c:\users\gonzaa\desktop\utn prog-lab\2022-08-16 clase 02 practica pilas\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleado.h"
+	"pilaEmpleado.h"
+
+1661040355 c:\users\gonzaa\desktop\utn prog-lab\2022-08-16 clase 02 practica pilas\empleado.h
+
+1661040594 source:c:\users\gonzaa\desktop\utn prog-lab\2022-08-16 clase 02 practica pilas\pilaempleado.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEmpleado.h"
+	<malloc.h>
+
+1661040611 c:\users\gonzaa\desktop\utn prog-lab\2022-08-16 clase 02 practica pilas\pilaempleado.h
+	"empleado.h"
+
+1661114521 source:c:\users\gonza\desktop\2022-08-16-practica-pilas-main\2022-08-16 clase 02 practica pilas\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"empleado.h"
+
+1661114487 c:\users\gonza\desktop\2022-08-16-practica-pilas-main\2022-08-16 clase 02 practica pilas\empleado.h
+
+1661115963 c:\users\gonza\desktop\2022-08-16-practica-pilas-main\2022-08-16 clase 02 practica pilas\pilaempleado.h
+	"empleado.h"
+
+1661116391 source:c:\users\gonza\desktop\2022-08-16-practica-pilas-main\2022-08-16 clase 02 practica pilas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEmpleado.h"
+
+1661115961 source:c:\users\gonza\desktop\2022-08-16-practica-pilas-main\2022-08-16 clase 02 practica pilas\pilaempleado.c
+	<stdio.h>
+	<stdlib.h>
+	"pilaEmpleado.h"
+	<malloc.h>
+
